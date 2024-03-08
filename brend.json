@@ -142,5 +142,149 @@
         "imageUrl": "/content/images/39/120x120l75nn0/amiplay-48734717438022.webp",
         "productName": "Amiplay",
         "url": "https://masterzoo.ua/ua/amiplay/"
+    },
+      {
+      "brand": "AnimAll",
+      "imageUrl": "/content/images/25/120x120l75nn0/animall-58256777243806.webp",
+      "productName": "AnimAll",
+      "url": "/ua/animall/"
+    },
+    {
+      "brand": "Animonda",
+      "imageUrl": "/content/images/15/120x120l75nn0/60157639460408.webp",
+      "productName": "Animonda",
+      "url": "/ua/animonda/"
+    },
+    {
+      "brand": "Aqua Medic",
+      "imageUrl": "/content/images/1/180x30l75nn0/aqua-medic-74785931852655.webp",
+      "productName": "Aqua Medic",
+      "url": "/ua/aqua-medic/"
+    },
+    {
+      "brand": "Aqua Stop",
+      "imageUrl": "/content/images/48/120x120l75nn0/aqua-stop-13049816155378.webp",
+      "productName": "Aqua Stop",
+      "url": "/ua/aqua-stop/"
+    },
+    {
+      "brand": "AquaDella",
+      "imageUrl": "/content/images/43/120x120l75nn0/aquadella-68561006611735.webp",
+      "productName": "AquaDella",
+      "url": "/ua/aquadella/"
+    },
+    {
+      "brand": "Aquael",
+      "imageUrl": "/content/images/44/180x41l75nn0/52078021360013.webp",
+      "productName": "Aquael",
+      "url": "/ua/aquael/"
+    },
+    {
+      "brand": "ArjanImpex",
+      "imageUrl": "/content/images/47/120x120l75nn0/arjanimpex-54078223348255.webp",
+      "productName": "ArjanImpex",
+      "url": "/ua/arjanimpex/"
+    },
+    {
+      "brand": "Bavaro",
+      "imageUrl": "/content/images/6/120x120l75nn0/bavaro-69756430131995.webp",
+      "productName": "Bavaro",
+      "url": "/ua/bavaro/"
+    },
+    {
+      "brand": "Bayer",
+      "imageUrl": "/content/images/27/120x120l75nn0/58960027107188.webp",
+      "productName": "Bayer",
+      "url": "/ua/bayer/"
+    },
+    {
+      "brand": "Beaphar",
+      "imageUrl": "/content/images/28/180x58l75nn0/17666740478338.webp",
+      "productName": "Beaphar",
+      "url": "/ua/beaphar/"
+    },
+    {
+      "brand": "Benty Sandy",
+      "imageUrl": "/content/images/20/120x120l75nn0/benty-sandy-74556490618134.webp",
+      "productName": "Benty Sandy",
+      "url": "/ua/benty-sandy/"
+    },
+    {
+      "brand": "Biofarm",
+      "imageUrl": "/content/images/1/106x120l75nn0/biofarm-78886134831969.webp",
+      "productName": "Biofarm",
+      "url": "/ua/biofarm/"
+    },
+    {
+      "brand": "Biokat’s",
+      "imageUrl": "/content/images/3/180x51l75nn0/38520062679144.webp",
+      "productName": "Biokat’s",
+      "url": "/ua/biokats/"
+    },
+    {
+      "brand": "Boehringer Ingelheim",
+      "imageUrl": "/content/images/8/120x120l75nn0/boehringer-ingelheim-48306657364162.webp",
+      "productName": "Boehringer Ingelheim",
+      "url": "/ua/boehringer-ingelheim/"
+    },
+    {
+      "brand": "Bomber",
+      "imageUrl": "/content/images/38/180x111l75nn0/bomber-50526010581265.webp",
+      "productName": "Bomber",
+      "url": "/ua/bomber/"
+    },
+    {
+      "brand": "Bravecto",
+      "imageUrl": "/content/images/11/120x120l75nn0/msd-animal-health-51329356386099.webp",
+      "productName": "Bravecto",
+      "url": "/ua/bravecto/"
+    },
+    {
+      "brand": "Buddy Boo",
+      "imageUrl": "/content/images/37/120x120l75nn0/buddy-boo-62474986377357.webp",
+      "productName": "Buddy Boo",
+      "url": "/ua/buddy-boo/"
+    },
+    {
+      "brand": "Canina",
+      "imageUrl": "/content/images/32/180x76l75nn0/45973191427179.webp",
+      "productName": "Canina",
+      "url": "/ua/canina/"
+    },
+    {
+      "brand": "Cat Shield",
+      "imageUrl": "/content/images/17/120x120l75nn0/cat-shield-38234678031718.webp",
+      "productName": "Cat Shield",
+      "url": "/ua/cat-shield/"
+    },
+    {
+      "brand": "Cat's Best",
+      "imageUrl": "/content/images/7/180x70l75nn0/80783877365974.webp",
+      "productName": "Cat's Best",
+      "url": "/ua/cats-best/"
+    },
+    {
+      "brand": "Catit",
+      "imageUrl": "/content/images/1/180x70l75nn0/catit-92796851131792.webp",
+      "productName": "Catit",
+      "url": "/ua/catit/"
+    },
+    {
+      "brand": "Cazo",
+      "imageUrl": "/content/images/9/120x120l75nn0/cazo-15110166074100.webp",
+      "productName": "Cazo",
+      "url": "/ua/cazo/"
+    },
+    {
+      "brand": "Ceva",
+      "imageUrl": "/content/images/30/120x120l75nn0/ceva-50227703968424.webp",
+      "productName": "Ceva",
+      "url": "/ua/ceva/"
+    },
+    {
+      "brand": "Chipsi",
+      "imageUrl": "/content/images/6/180x90l75nn0/46653145054024.webp",
+      "productName": "Chipsi",
+      "url": "/ua/chipsi/"
     }
 ]
