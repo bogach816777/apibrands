@@ -449,11 +449,17 @@
       "productName": "Elanco",
       "url": "https://masterzoo.ua/ua/elanco/"
     },
-        {
+    {
       "brand": "Earth Rated",
       "imageUrl": "/content/images/49/earth-rated-37005407208766_+0f91853a8c.jpg",
       "productName": "Earth Rated",
       "url": "https://masterzoo.ua/ua/earth-rated/"
+    },
+    {
+      "brand": "Els pet",
+      "imageUrl": "/content/images/5/120x120l75nn0/els-pet-78743660080547.webp",
+      "productName": "Els pet",
+      "url": "https://masterzoo.ua/ua/els-pet/"
     },
     {
       "brand": "FURminator",
